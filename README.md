@@ -1,6 +1,6 @@
 # It’s a beer’s, beer’s, beer’s world
 
-Hey there!
+Hey there! 😈😈😈😈😈😈😈
 
 Our website can be found [here](https://aureliensoenen.github.io/ADA_RateBeer.github.io/)!
 
