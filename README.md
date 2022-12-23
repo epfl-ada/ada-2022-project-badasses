@@ -61,10 +61,10 @@ Here’s the dates we expect to complete our analysis for the different research
 We decided to divide the work into two sub-teams, so that we can benefit from teamwork efficiency, and work on things in parallel. Each sub-team is responsible for doing its part, and we meet regularly with the entire group to share our advancement, methods and discuss the next steps to work on. This allows us to provide feedback to each other while working on the same topic.
 
 ## Who was responsible for which parts?
--Louis: Working on parameters for filtering the data, and generating statistics regarding each country's favourite beers
--Aurelien: Time analysis of beer preferences, generating the website for the datastory
--Donglin: Plotting maps, generating charts
--Benjamin: Clustering and the second research question
+- Louis: Working on parameters for filtering the data, and generating statistics regarding each country's favourite beers
+- Aurelien: Time analysis of beer preferences, generating the website for the datastory
+- Donglin: Plotting maps, generating charts
+- Benjamin: Clustering and the second research question
 
 ## Question for the TA’ s
 
