@@ -1,4 +1,9 @@
 # It’s a beer’s, beer’s, beer’s world
+
+Hey there!
+
+Our website can be found [here](https://aureliensoenen.github.io/ADA_RateBeer.github.io/)!
+
 ## Abstract:
 What if we re-arranged the world through beer taste? What would be the map resulting from it? What countries will be linked per their beer’s love? Can natural enemies become friends over a nice cold beverage? 
 
@@ -12,11 +17,12 @@ Then, we will use those various methods to cluster the different countries, and 
 1. What is the best method to find the favorite beer per country?
 2. What happens if we draw the world’s boundaries using beer preferences?
 
-## Proposed additional dataset:
+## Additional dataset:
 
 [Dataset of the geographical coordinates of each country’s centroid](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv)
 - Publicly available on the internet
 - Used to help with creating data points for the maps
+- GeoJson versions of maps with country names and their corresponding polygons for plotting
 
 ## How we intend to work towards answering the questions:
 
@@ -50,8 +56,19 @@ Here’s the dates we expect to complete our analysis for the different research
 ## Organization within the team:
 We decided to divide the work into two sub-teams, so that we can benefit from teamwork efficiency, and work on things in parallel. Each sub-team is responsible for doing its part, and we meet regularly with the entire group to share our advancement, methods and discuss the next steps to work on. This allows us to provide feedback to each other while working on the same topic.
 
+## Who was responsible for which parts?
+Louis: Working on parameters for filtering the data, and generating statistics regarding each country's favourite beers
+Aurelien: Time analysis of beer preferences, generating the website for the datastory
+Donglin: Plotting maps, generating charts
+Benjamin: Clustering and the second research question
+
 ## Question for the TA’ s
 
 What is your favorite beer?
 Which method are you recommending for clustering?
 Which method do you think gives the more accurate result in your opinion?
+
+## Notes on running the code
+- The main notebook is found in `Supporting Notebook.ipynb`.
+- Some blocks have been commented out to reduce the filesize of the notebook to be within the limits of Github uploads
+- Some raw data has been omitted from the repository, but can be directly imported from the original raw data source for RateBeer reviews. This is due to the file sizes being > 100 MB.
