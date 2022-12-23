@@ -1,5 +1,7 @@
 # It’s a beer’s, beer’s, beer’s world
 
+*A project by Louis, Aurelien, Donglin and Benjamin.*
+
 Hey there! 😈😈😈😈😈😈😈
 
 Our website can be found [here](https://aureliensoenen.github.io/ADA_RateBeer.github.io/)!
