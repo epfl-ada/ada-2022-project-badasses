@@ -4,6 +4,8 @@ Hey there! 😈😈😈😈😈😈😈
 
 Our website can be found [here](https://aureliensoenen.github.io/ADA_RateBeer.github.io/)!
 
+The main supporting notebook is `Supporting Notebook.ipynb`. We've also left our milestone 2 and another data exploration work in respective folders for reference.
+
 ## Abstract:
 What if we re-arranged the world through beer taste? What would be the map resulting from it? What countries will be linked per their beer’s love? Can natural enemies become friends over a nice cold beverage? 
 
